@@ -1,0 +1,45 @@
+<definition type="element" hotspot_y="42" link_type="simple" hotspot_x="84" height="60" width="110" orientation="dyyy" version="0.70">
+    <uuid uuid="{0ae44cd8-db02-4e13-ad85-80ff41ab947f}"/>
+    <names>
+        <name lang="fr">mt30_male</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle y="-17" x="-9" diameter="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-57" x2="-39" length2="1.5" end2="none" antialias="false" y1="-4" y2="-33" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon y2="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-58" y7="5" x8="-50" y5="4" y4="3" closed="false" x3="-58" x6="-54" y6="5" y3="1" x7="-53" antialias="false" x4="-57" y8="5" x1="-57" y1="-4" x5="-56"/>
+        <polygon y2="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-53" y7="3" x8="-51" y5="4" y4="3" closed="false" x3="-53" x6="-52" y6="3" y3="1" x7="-51" antialias="false" x4="-52" y8="4" x1="-52" y1="-4" x5="-51"/>
+        <line end1="none" x1="-52" x2="-36" length2="1.5" end2="none" antialias="false" y1="-4" y2="-30" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle y="-2" x="-19" diameter="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle y="-2" x="1" diameter="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-26" x2="-10" length2="1.5" end2="none" antialias="false" y1="4" y2="-22" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="2" x2="18" length2="1.5" end2="none" antialias="false" y1="-22" y2="4" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="13" x2="1" length2="1.5" end2="none" antialias="false" y1="13" y2="13" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-9" x2="-19" length2="1.5" end2="none" antialias="false" y1="13" y2="13" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon y2="7" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-27" y7="13" x8="-19" y5="12" y4="11" closed="false" x3="-27" x6="-23" y6="13" y3="9" x7="-22" antialias="false" x4="-26" y8="13" x1="-26" y1="4" x5="-25"/>
+        <polygon y2="-24" y9="-22" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-8" y7="-24" x8="1" y5="-25" y4="-25" closed="false" x3="-6" x6="-2" y6="-25" y3="-25" x7="0" antialias="false" x9="2" x4="-4" y8="-23" x1="-10" y1="-22" x5="-3"/>
+        <polygon x4="18" y6="6" x1="13" y4="10" y3="12" y7="4" x2="15" closed="false" y5="8" antialias="false" y1="13" y2="13" x3="17" x5="19" x7="18" style="line-style:normal;line-weight:normal;filling:none;color:black" x6="19"/>
+        <line end1="none" x1="-9" x2="-7" length2="1.5" end2="none" antialias="false" y1="13" y2="13" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-7" x2="-7" length2="1.5" end2="none" antialias="false" y1="13" y2="9" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-7" x2="-2" length2="1.5" end2="none" antialias="false" y1="9" y2="9" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-1" x2="-1" length2="1.5" end2="none" antialias="false" y1="9" y2="13" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="1" x2="-1" length2="1.5" end2="none" antialias="false" y1="13" y2="13" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-10" x2="-36" length2="1.5" end2="none" antialias="false" y1="-22" y2="-30" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-3" x2="-30" length2="1.5" end2="none" antialias="false" y1="-25" y2="-33" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-52" x2="-26" length2="1.5" end2="none" antialias="false" y1="-4" y2="5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-24" x2="-52" length2="1.5" end2="none" antialias="false" y1="12" y2="3" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x4="-33" x1="-36" y4="-33" y3="-33" x2="-35" closed="false" y5="-33" antialias="false" y1="-30" y2="-32" x3="-34" x5="-30" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon y2="-35" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-37" y7="-33" x8="-29" y5="-36" y4="-36" closed="false" x3="-35" x6="-30" y6="-35" y3="-36" x7="-29" antialias="false" x4="-34" y8="-33" x1="-39" y1="-33" x5="-32"/>
+        <line end1="none" x1="-56" x2="-61" length2="1.5" end2="none" antialias="false" y1="4" y2="1" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-32" x2="-37" length2="1.5" end2="none" antialias="false" y1="-36" y2="-38" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-39" x2="-41" length2="1.5" end2="none" antialias="false" y1="-34" y2="-35" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x4="-60" y6="-1" x1="-37" y4="-5" y3="-35" y7="1" x2="-39" closed="false" y5="-3" antialias="false" y1="-38" y2="-38" x3="-41" x5="-61" x7="-61" style="line-style:normal;line-weight:normal;filling:none;color:black" x6="-61"/>
+        <line end1="none" x1="-40" x2="-70" length2="1.5" end2="none" antialias="false" y1="-35" y2="-35" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-50" x2="-70" length2="1.5" end2="none" antialias="false" y1="-20" y2="-20" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-60" x2="-75" length2="1.5" end2="none" antialias="false" y1="-5" y2="-5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal y="-5" x="-75" orientation="w"/>
+        <terminal y="-20" x="-75" orientation="w"/>
+        <terminal y="-35" x="-75" orientation="w"/>
+    </description>
+</definition>

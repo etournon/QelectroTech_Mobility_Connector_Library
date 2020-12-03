@@ -1,0 +1,55 @@
+<definition height="110" hotspot_x="107" link_type="simple" orientation="dyyy" version="0.70" type="element" width="220" hotspot_y="78">
+    <uuid uuid="{b73ed940-96d7-4dbe-a087-3912f63585a7}"/>
+    <names>
+        <name lang="fr">ESC_type1_CAN_HALL_12V_ANALGOG_CTRL</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line end2="none" y2="-30" y1="-65" x1="2" end1="none" length1="1.5" x2="2" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="60" text="Ph3" color="#000000" y="19" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="60" text="Ph2" color="#000000" y="-1" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="60" text="Ph1" color="#000000" y="-20" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-50" text="+" color="#000000" y="-15" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line end2="none" y2="-31" y1="-66" x1="23" end1="none" length1="1.5" x2="23" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y2="-31" y1="-66" x1="38" end1="none" length1="1.5" x2="38" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-50" height="55" ry="0" rx="0" width="105" antialias="false" y="-30" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y2="10" y1="10" x1="-95" end1="none" length1="1.5" x2="-50" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y2="-65" y1="-30" x1="-35" end1="none" length1="1.5" x2="-35" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="-25" text="CAN-LOW" color="#000000" y="-30" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <line end2="none" y2="-15" y1="-15" x1="-95" end1="none" length1="1.5" x2="-50" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y2="-30" y1="-65" x1="-23" end1="none" length1="1.5" x2="-23" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y2="-30" y1="-65" x1="12" end1="none" length1="1.5" x2="12" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y2="-30" y1="-65" x1="-9" end1="none" length1="1.5" x2="-9" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="20" text="GND" color="#000000" y="-39.5" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text x="0" text="SPD_CTRL" color="#000000" y="-30" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text x="-10" text="ESC" color="#000000" y="5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="36" text="HAL (x6)" color="#000000" y="-31" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text x="10" text="12V" color="#000000" y="-40" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text x="-11" text="TRQ_CRTL" color="#000000" y="-30" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <line end2="none" y2="-5" y1="-5" x1="-45" end1="none" length1="1.5" x2="-30" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y2="0" y1="0" x1="-45" end1="none" length1="1.5" x2="-30" antialias="false" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black"/>
+        <arc x="30" height="10" angle="90" width="10" antialias="true" y="-6" start="90" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc x="30" height="10" angle="90" width="10" antialias="true" y="-6" start="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc x="40" height="10" angle="90" width="10" antialias="true" y="-6" start="180" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc x="40" height="10" angle="90" width="10" antialias="true" y="-6" start="270" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y2="-20" y1="-20" x1="55" end1="none" length1="1.5" x2="100" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y2="0" y1="0" x1="55" end1="none" length1="1.5" x2="100" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y2="20" y1="20" x1="55" end1="none" length1="1.5" x2="100" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="-65" text="+" color="#000000" y="-15" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-65" text="-" color="#000000" y="10" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-38" text="CAN-HIGH" color="#000000" y="-30" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <terminal x="38" orientation="s" y="-65"/>
+        <terminal x="12" orientation="s" y="-65"/>
+        <terminal x="2" orientation="s" y="-65"/>
+        <terminal x="-95" orientation="e" y="-15"/>
+        <terminal x="100" orientation="w" y="20"/>
+        <terminal x="100" orientation="w" y="-20"/>
+        <terminal x="100" orientation="w" y="0"/>
+        <terminal x="-95" orientation="e" y="10"/>
+        <terminal x="-23" orientation="s" y="-65"/>
+        <terminal x="-35" orientation="s" y="-65"/>
+        <terminal x="-9" orientation="s" y="-65"/>
+        <terminal x="23" orientation="s" y="-65"/>
+    </description>
+</definition>

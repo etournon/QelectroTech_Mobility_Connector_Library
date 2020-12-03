@@ -1,0 +1,11 @@
+<definition hotspot_y="18" orientation="dyyy" version="0.70" type="element" height="40" hotspot_x="42" width="140" link_type="simple">
+    <uuid uuid="{81f22a54-f5eb-49f0-8fa0-36b263109ba4}"/>
+    <names>
+        <name lang="fr">text_jst_sm_2_plug</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="-35" color="#00aa00" y="0" rotation="0" text="Ref plug  : SMP-02V-BC &#xa;Ref crimp : SHF-001T-0.8BS"/>
+    </description>
+</definition>

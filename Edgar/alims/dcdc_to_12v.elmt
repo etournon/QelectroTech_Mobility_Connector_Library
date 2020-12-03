@@ -1,0 +1,26 @@
+<definition width="240" version="0.70" orientation="dyyy" link_type="simple" type="element" hotspot_y="41" height="80" hotspot_x="94">
+    <uuid uuid="{4163eaa0-918f-4e4b-b80b-99fc202b100e}"/>
+    <names>
+        <name lang="fr">DCDC-12V</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="170" x="-60" y="-35" antialias="false" rx="0" height="70" style="line-style:normal;line-weight:normal;filling:none;color:black" ry="0"/>
+        <text x="-57" y="30" rotation="0" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="-"/>
+        <text x="95" y="-10" rotation="90" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="out"/>
+        <text x="84" y="-20" rotation="0" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="12V"/>
+        <text x="100" y="30" rotation="0" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="-"/>
+        <text x="-25" y="-15" rotation="0" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="  DC/DC&#xa;lnput : [X-Y] V&#xa;Output : 12V"/>
+        <line length1="1.5" antialias="false" x1="110" y1="-20" y2="-20" x2="140" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" end1="none"/>
+        <line length1="1.5" antialias="false" x1="110" y1="20" y2="20" x2="140" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" end1="none"/>
+        <line length1="1.5" antialias="false" x1="-60" y1="-20" y2="-20" x2="-85" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" end1="none"/>
+        <line length1="1.5" antialias="false" x1="-60" y1="20" y2="20" x2="-85" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" end1="none"/>
+        <text x="-55" y="-5" rotation="90" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="in"/>
+        <text x="-60" y="-20" rotation="0" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="+"/>
+        <terminal x="140" y="20" orientation="e"/>
+        <terminal x="-90" y="20" orientation="w"/>
+        <terminal x="-90" y="-20" orientation="w"/>
+        <terminal x="140" y="-20" orientation="e"/>
+    </description>
+</definition>

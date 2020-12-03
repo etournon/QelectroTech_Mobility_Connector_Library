@@ -1,0 +1,11 @@
+<definition hotspot_y="18" orientation="dyyy" version="0.70" type="element" height="40" hotspot_x="41" width="130" link_type="simple">
+    <uuid uuid="{c82d6cd5-355f-4992-ac00-49cebb9b2af5}"/>
+    <names>
+        <name lang="fr">text_jst_sm_2_receptacle</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="-36" color="#00aa00" y="0" rotation="0" text="Ref plug  : SMR-02V-B &#xa;Ref crimp : SYM-001T-P0.6"/>
+    </description>
+</definition>

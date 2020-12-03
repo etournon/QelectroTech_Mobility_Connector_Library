@@ -1,0 +1,20 @@
+<definition type="element" width="230" height="80" hotspot_y="40" version="0.70" link_type="simple" hotspot_x="117" orientation="dyyy">
+    <uuid uuid="{933472bd-0d08-4edb-b9cc-9d156c82b870}"/>
+    <names>
+        <name lang="fr">Hacheur de freinage</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" y="-35" antialias="false" x="-60" width="120" height="70" ry="0" rx="0"/>
+        <text y="0" x="-35" rotation="0" text="Hacheur de &#xa;freinage" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="-105" x1="-60" y2="-20" end2="none" length2="1.5" y1="-20"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="-105" x1="-60" y2="20" end2="none" length2="1.5" y1="20"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="100" x1="60" y2="-20" end2="none" length2="1.5" y1="-20"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="100" x1="60" y2="20" end2="none" length2="1.5" y1="20"/>
+        <terminal y="-20" x="-110" orientation="w"/>
+        <terminal y="-20" x="105" orientation="e"/>
+        <terminal y="20" x="105" orientation="e"/>
+        <terminal y="20" x="-110" orientation="w"/>
+    </description>
+</definition>

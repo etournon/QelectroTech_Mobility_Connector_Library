@@ -1,0 +1,11 @@
+<definition height="50" hotspot_x="85" link_type="simple" orientation="dyyy" version="0.70" type="element" width="190" hotspot_y="11">
+    <uuid uuid="{d6e5ded4-7df3-4845-88b2-a16c9d221608}"/>
+    <names>
+        <name lang="fr">Texte_Anderson</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text x="-80" text="Boitier : Anderson PP15-45 30A&#xa;Crimp  : Powerpole PP15-45 30A&#xa;" color="#00aa00" y="5" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0"/>
+    </description>
+</definition>

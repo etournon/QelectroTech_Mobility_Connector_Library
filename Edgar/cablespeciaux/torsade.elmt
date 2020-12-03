@@ -1,0 +1,17 @@
+<definition type="element" hotspot_y="14" link_type="simple" hotspot_x="69" height="20" width="120" orientation="dyyy" version="0.70">
+    <uuid uuid="{ecb3c861-fa83-4969-9417-7a78e619c312}"/>
+    <names>
+        <name lang="fr">torsade</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line end1="none" x1="-60" x2="-50" length2="1.5" end2="none" antialias="false" y1="-10" y2="-10" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-30" y7="-10" x8="40" y5="-10" y4="0" closed="false" x3="-10" x6="40" y6="-10" y3="-10" x7="40" antialias="false" x4="10" y8="-10" x1="-50" y1="-10" x5="30"/>
+        <polygon x4="-10" y6="0" x1="-60" y4="0" y3="-10" y7="0" x2="-50" closed="false" y5="-10" antialias="false" y1="0" y2="0" x3="-30" x5="10" x7="40" style="line-style:normal;line-weight:normal;filling:none;color:black" x6="30"/>
+        <terminal y="0" x="45" orientation="e"/>
+        <terminal y="-10" x="-65" orientation="w"/>
+        <terminal y="0" x="-65" orientation="w"/>
+        <terminal y="-10" x="45" orientation="e"/>
+    </description>
+</definition>

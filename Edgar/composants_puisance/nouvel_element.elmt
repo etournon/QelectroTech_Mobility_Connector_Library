@@ -1,0 +1,23 @@
+<definition type="element" width="30" height="140" hotspot_y="69" version="0.70" link_type="simple" hotspot_x="15" orientation="dyyy">
+    <uuid uuid="{9a9842a3-ebb5-4175-8656-d1dc36177569}"/>
+    <names>
+        <name lang="fr">powr_resistor</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="-10" x1="10" y2="-20" end2="none" length2="1.5" y1="-30"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="-10" x1="10" y2="-20" end2="none" length2="1.5" y1="-10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="10" x1="-10" y2="-10" end2="none" length2="1.5" y1="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="-10" x1="10" y2="0" end2="none" length2="1.5" y1="10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="-10" x1="10" y2="20" end2="none" length2="1.5" y1="10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="0" x1="-10" y2="25" end2="none" length2="1.5" y1="20"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="10" x1="0" y2="30" end2="none" length2="1.5" y1="25"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="10" x1="0" y2="30" end2="none" length2="1.5" y1="35"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="0" x1="0" y2="60" end2="none" length2="1.5" y1="35"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="0" x1="0" y2="-60" end2="none" length2="1.5" y1="-35"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="0" x1="10" y2="-35" end2="none" length2="1.5" y1="-30"/>
+        <terminal y="65" x="0" orientation="s"/>
+        <terminal y="-65" x="0" orientation="n"/>
+    </description>
+</definition>

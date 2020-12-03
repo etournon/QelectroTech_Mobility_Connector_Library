@@ -1,0 +1,13 @@
+<definition hotspot_x="12" width="150" hotspot_y="9" type="element" orientation="dyyy" version="0.70" link_type="simple" height="20">
+    <uuid uuid="{721bc000-beff-46fc-8ddc-bf1644dd87c5}"/>
+    <names>
+        <name lang="fr">cable_designation_plage</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect rx="0" ry="0" width="40" y="-7" x="-10" height="15" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect rx="0" ry="0" width="65" y="-7" x="30" height="15" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect rx="0" ry="0" width="40" y="-7" x="95" height="15" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+    </description>
+</definition>

@@ -1,0 +1,19 @@
+<definition orientation="dyyy" height="40" version="0.70" type="element" link_type="simple" width="70" hotspot_x="51" hotspot_y="20">
+    <uuid uuid="{719f5aea-9427-4785-83cb-15ea48f08839}"/>
+    <names>
+        <name lang="fr">Cosse ronde rouge</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <ellipse height="17" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="16" x="-8" y="-8"/>
+        <arc angle="90" height="11" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="180" width="29" x="-15" y="3"/>
+        <arc angle="90" height="28" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="270" width="28" x="-14" y="-14"/>
+        <arc angle="90" height="28" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" width="28" x="-14" y="-14"/>
+        <arc angle="90" height="12" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" width="30" x="-15" y="-14"/>
+        <line y1="-8" x1="-15" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x2="-15" end1="none" y2="-6" end2="none"/>
+        <line y1="8" x1="-15" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x2="-15" end1="none" y2="6" end2="none"/>
+        <rect height="12" antialias="false" ry="0" style="line-style:normal;line-weight:normal;filling:red;color:black" width="25" rx="0" x="-40" y="-6"/>
+        <terminal orientation="w" x="-45" y="0"/>
+    </description>
+</definition>

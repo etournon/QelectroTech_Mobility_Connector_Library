@@ -1,0 +1,14 @@
+<definition hotspot_y="9" orientation="dyyy" version="0.70" type="element" height="20" hotspot_x="25" width="200" link_type="simple">
+    <uuid uuid="{5a2723ec-af5e-4989-9016-7299b206cd7e}"/>
+    <names>
+        <name lang="fr">label_cable_special</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect x="-20" height="15" rx="0" width="40" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-7" antialias="false" ry="0"/>
+        <rect x="20" height="15" rx="0" width="45" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-7" antialias="false" ry="0"/>
+        <rect x="65" height="15" rx="0" width="40" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-7" antialias="false" ry="0"/>
+        <rect x="105" height="15" rx="0" width="65" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-7" antialias="false" ry="0"/>
+    </description>
+</definition>

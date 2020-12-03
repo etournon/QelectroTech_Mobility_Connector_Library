@@ -1,0 +1,31 @@
+<definition hotspot_y="38" orientation="dyyy" hotspot_x="74" width="150" version="0.70" link_type="simple" type="element" height="80">
+    <uuid uuid="{42b8e9a4-974e-44ae-8485-5c13ba515d6e}"/>
+    <names>
+        <name lang="fr">usb_pannel_mount</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle x="31" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="6" y="31"/>
+        <line x2="-60" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="20" x1="-45" y2="20" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <rect ry="0" x="-35" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-35" width="75" rx="0" height="75"/>
+        <circle x="-29" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="6" y="31"/>
+        <circle x="63" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="6" y="-29"/>
+        <circle x="31" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="6" y="-29"/>
+        <rect ry="0" x="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-5" width="25" rx="0" height="10"/>
+        <rect ry="0" x="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="3" width="21" rx="0" height="1"/>
+        <line x2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="3" x1="13" y2="-5" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <line x2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="3" x1="-8" y2="1" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <rect ry="0" x="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-7" width="29" rx="0" height="14"/>
+        <line x2="-38" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="-35" x1="-35" y2="-36" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <line x2="-38" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="-36" x1="-38" y2="38" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <line x2="-35" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="38" x1="-38" y2="40" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <line x2="8" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="-36" x1="-38" y2="-36" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <line x2="39" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="-36" x1="8" y2="-36" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <circle x="-29" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="6" y="-29"/>
+        <polygon y4="-15" x2="-45" x3="-45" y5="-15" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="25" y3="-15" x4="-40" x1="-40" x5="-40" closed="false" y2="25"/>
+        <line x2="-60" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="-10" x1="-45" y2="-10" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <terminal orientation="w" x="-65" y="20"/>
+        <terminal orientation="w" x="-65" y="-10"/>
+    </description>
+</definition>

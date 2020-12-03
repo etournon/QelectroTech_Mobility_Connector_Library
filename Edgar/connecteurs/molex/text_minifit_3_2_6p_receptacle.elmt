@@ -1,0 +1,11 @@
+<definition hotspot_y="17" orientation="dyyy" version="0.70" height="50" hotspot_x="37" type="element" width="100" link_type="simple">
+    <uuid uuid="{cb78684c-28f2-4c9d-bcdc-b5e85cfac642}"/>
+    <names>
+        <name lang="fr">text_molex_3_2_6pin_receptacle</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="Ref fab : Molex Minfit&#xa;Ref plug  : 39012060 &#xa;Ref crimp : 39000038" y="0" color="#00aa00" x="-34"/>
+    </description>
+</definition>

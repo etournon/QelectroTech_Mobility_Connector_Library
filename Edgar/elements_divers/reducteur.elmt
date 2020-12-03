@@ -1,0 +1,31 @@
+<definition height="70" hotspot_x="135" link_type="simple" orientation="dyyy" version="0.70" type="element" width="180" hotspot_y="35">
+    <uuid uuid="{cddd6b51-b641-485a-b423-493cad525fd1}"/>
+    <names>
+        <name lang="fr">reducteur poulie</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1">Reducteur</elementInformation>
+        <elementInformation name="manufacturer-reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="machine-manufacturer-reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <circle x="-20" diameter="60" antialias="false" y="-30" style="line-style:normal;line-weight:normal;filling:yellow;color:black"/>
+        <circle x="-130" diameter="30" antialias="false" y="-15" style="line-style:normal;line-weight:normal;filling:yellow;color:black"/>
+        <line end2="none" y2="-30" y1="-15" x1="-115" end1="none" length1="1.5" x2="10" antialias="false" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" y2="30" y1="15" x1="-115" end1="none" length1="1.5" x2="5" antialias="false" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black"/>
+        <text x="-80" text="Ratio =Dm/Dp" color="#000000" y="5" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line end2="simple" y2="0" y1="0" x1="-20" end1="simple" length1="1.5" x2="40" antialias="false" length2="1.5" style="line-style:dashdotted;line-weight:normal;filling:red;color:red"/>
+        <text x="5" text="Dm" color="#000000" y="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line end2="simple" y2="0" y1="0" x1="-130" end1="simple" length1="1.5" x2="-100" antialias="false" length2="1.5" style="line-style:dashdotted;line-weight:normal;filling:none;color:red"/>
+        <text x="-120" text="Dp" color="#000000" y="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+    </description>
+</definition>

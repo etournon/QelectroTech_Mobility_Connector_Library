@@ -1,0 +1,11 @@
+<definition orientation="dyyy" height="70" version="0.70" type="element" link_type="simple" width="130" hotspot_x="48" hotspot_y="27">
+    <uuid uuid="{6d512538-bec0-4163-90f9-c5d85a7f53e3}"/>
+    <names>
+        <name lang="fr">texte Cosse</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text rotation="0" x="-45" y="-5" font="Sans Serif,7,-1,5,50,0,0,0,0,0" text="Cosse à oeillet &#xa;Rouge, Bleu, Jaune&#xa;Ref : RS Pro 534-216 ;&#xa;534-569; 534-430" color="#00aa00"/>
+    </description>
+</definition>

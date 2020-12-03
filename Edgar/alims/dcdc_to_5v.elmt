@@ -1,0 +1,26 @@
+<definition hotspot_y="41" hotspot_x="94" link_type="simple" type="element" width="240" orientation="dyyy" height="80" version="0.70">
+    <uuid uuid="{86243ab4-ac68-4369-a8e6-24949ecd7fab}"/>
+    <names>
+        <name lang="fr">DCDC-5V_USB</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect ry="0" y="-35" rx="0" x="-60" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" width="170" height="70"/>
+        <text text="-" color="#000000" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="30" x="-57"/>
+        <text text="out" color="#000000" rotation="90" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-10" x="95"/>
+        <text text="5V" color="#000000" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-20" x="90"/>
+        <text text="-" color="#000000" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="30" x="100"/>
+        <text text="  DC/DC&#xa;lnput : [X-Y] V&#xa;Output : 5V" color="#000000" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-15" x="-25"/>
+        <line length1="1.5" x1="110" x2="140" y2="-20" y1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length2="1.5" end1="none"/>
+        <line length1="1.5" x1="110" x2="140" y2="20" y1="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length2="1.5" end1="none"/>
+        <line length1="1.5" x1="-60" x2="-85" y2="-20" y1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length2="1.5" end1="none"/>
+        <line length1="1.5" x1="-60" x2="-85" y2="20" y1="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" length2="1.5" end1="none"/>
+        <text text="in" color="#000000" rotation="90" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-5" x="-55"/>
+        <text text="+" color="#000000" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-20" x="-60"/>
+        <terminal y="20" x="140" orientation="e"/>
+        <terminal y="20" x="-90" orientation="w"/>
+        <terminal y="-20" x="-90" orientation="w"/>
+        <terminal y="-20" x="140" orientation="e"/>
+    </description>
+</definition>

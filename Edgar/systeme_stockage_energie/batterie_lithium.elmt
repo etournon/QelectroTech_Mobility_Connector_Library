@@ -1,0 +1,16 @@
+<definition width="120" version="0.70" orientation="dyyy" link_type="simple" type="element" hotspot_y="53" height="90" hotspot_x="62">
+    <uuid uuid="{e17151aa-633a-42ac-9a9a-38be4fe34b15}"/>
+    <names>
+        <name lang="fr">batterie</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon x4="40" x9="-60" x3="55" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="-40" x7="-45" y4="-40" y5="-30" y8="-40" y6="-30" x2="55" x8="-60" x1="-60" y1="30" y9="30" antialias="false" y7="-40" x6="-45" x5="40" y2="30"/>
+        <text x="42" y="-28" rotation="0" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="+"/>
+        <text x="-55" y="-30" rotation="0" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="-"/>
+        <text x="-40" y="-15" rotation="0" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="Pack batterie&#xa;XsYp ; &#xa;Nominal : Z V&#xa;Capacité : W Ah"/>
+        <terminal x="40" y="-40" orientation="n"/>
+        <terminal x="-45" y="-40" orientation="n"/>
+    </description>
+</definition>

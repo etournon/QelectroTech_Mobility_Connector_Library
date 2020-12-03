@@ -1,0 +1,24 @@
+<definition type="element" width="160" height="130" hotspot_y="83" version="0.70" link_type="simple" hotspot_x="113" orientation="dyyy">
+    <uuid uuid="{473e651c-616b-43f9-90c2-107f2d21f71a}"/>
+    <names>
+        <name lang="fr">DD_Moteur</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" y="-40" antialias="false" x="-40" diameter="80"/>
+        <text y="-5" x="-65" rotation="0" text="Ph2" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="15" x="-65" rotation="0" text="Ph3" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="-100" x1="-35" y2="-20" end2="none" length2="1.5" y1="-20"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="-100" x1="-40" y2="0" end2="none" length2="1.5" y1="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="-100" x1="-35" y2="20" end2="none" length2="1.5" y1="20"/>
+        <text y="-5" x="-20" rotation="0" text="Direct &#xa;Drive" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text y="-25" x="-65" rotation="0" text="Ph1" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="0" x1="0" y2="-70" end2="none" length2="1.5" y1="-40"/>
+        <text y="-50" x="5" rotation="0" text="Hall" color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <terminal y="0" x="-105" orientation="w"/>
+        <terminal y="-75" x="0" orientation="n"/>
+        <terminal y="-20" x="-104" orientation="w"/>
+        <terminal y="20" x="-105" orientation="w"/>
+    </description>
+</definition>

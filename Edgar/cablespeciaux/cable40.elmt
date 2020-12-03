@@ -1,0 +1,60 @@
+<definition hotspot_y="40" orientation="dyyy" version="0.70" type="element" height="80" hotspot_x="182" width="220" link_type="simple">
+    <uuid uuid="{907c1122-f37c-4bac-bdeb-b92d248f986f}"/>
+    <names>
+        <name lang="fr">Cordon_Secteur_Type_Shuko</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line length1="1.5" y1="5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-30" antialias="false" end2="none" y2="5" x1="-25"/>
+        <line length1="1.5" y1="5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-130" antialias="false" end2="none" y2="5" x1="-60"/>
+        <line length1="1.5" y1="5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="32" antialias="false" end2="none" y2="5" x1="25"/>
+        <arc start="180" x="8" height="8" width="12" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-8" antialias="true"/>
+        <arc start="90" x="8" height="8" width="12" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-10" antialias="true"/>
+        <line length1="1.5" y1="0" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-30" antialias="false" end2="none" y2="5" x1="-30"/>
+        <line length1="1.5" y1="0" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="32" antialias="false" end2="none" y2="5" x1="32"/>
+        <line length1="1.5" y1="0" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-30" antialias="false" end2="none" y2="-5" x1="-30"/>
+        <line length1="1.5" y1="0" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="32" antialias="false" end2="none" y2="-5" x1="32"/>
+        <line length1="1.5" y1="-5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-25" antialias="false" end2="none" y2="-5" x1="-30"/>
+        <line length1="1.5" y1="-5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="31" antialias="false" end2="none" y2="-5" x1="26"/>
+        <line length1="1.5" y1="-5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="25" antialias="false" end2="none" y2="-20" x1="25"/>
+        <line length1="1.5" y1="-5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-25" antialias="false" end2="none" y2="-20" x1="-25"/>
+        <line length1="1.5" y1="5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="25" antialias="false" end2="none" y2="20" x1="25"/>
+        <line length1="1.5" y1="5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-25" antialias="false" end2="none" y2="20" x1="-25"/>
+        <arc start="90" x="-25" height="30" width="50" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-35" antialias="true"/>
+        <arc start="0" x="-25" height="30" width="50" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-35" antialias="true"/>
+        <arc start="180" x="-25" height="30" width="50" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" y="5" antialias="true"/>
+        <arc start="270" x="-25" height="30" width="50" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" y="5" antialias="true"/>
+        <circle x="-12" style="line-style:normal;line-weight:normal;filling:black;color:black" diameter="10" y="-10" antialias="false"/>
+        <circle x="16" style="line-style:normal;line-weight:normal;filling:black;color:black" diameter="10" y="-10" antialias="false"/>
+        <circle x="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" y="-25" antialias="false"/>
+        <line length1="1.5" y1="-5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-130" antialias="false" end2="none" y2="-5" x1="-60"/>
+        <line length1="1.5" y1="-5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-20" antialias="false" end2="none" y2="-30" x1="-60"/>
+        <line length1="1.5" y1="5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-20" antialias="false" end2="none" y2="30" x1="-60"/>
+        <line length1="1.5" y1="-5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-60" antialias="false" end2="none" y2="5" x1="-60"/>
+        <line length1="1.5" y1="-10" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-50" antialias="false" end2="none" y2="10" x1="-50"/>
+        <line length1="1.5" y1="-10" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-16" antialias="false" end2="none" y2="-10" x1="-6"/>
+        <line length1="1.5" y1="0" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-16" antialias="false" end2="none" y2="0" x1="-6"/>
+        <line length1="1.5" y1="-10" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="12" antialias="false" end2="none" y2="-10" x1="22"/>
+        <line length1="1.5" y1="0" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="12" antialias="false" end2="none" y2="0" x1="22"/>
+        <arc start="90" x="-22" height="8" width="12" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-10" antialias="true"/>
+        <arc start="180" x="-22" height="8" width="12" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-8" antialias="true"/>
+        <arc start="90" x="-135" height="12" width="10" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-5" antialias="true"/>
+        <arc start="180" x="-135" height="8" width="8" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-3" antialias="true"/>
+        <line length1="1.5" y1="-5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-145" antialias="false" end2="none" y2="-20" x1="-135"/>
+        <line length1="1.5" y1="-20" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-145" antialias="false" end2="none" y2="-20" x1="-170"/>
+        <line length1="1.5" y1="0" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-135" antialias="false" end2="none" y2="0" x1="-170"/>
+        <line length1="1.5" y1="5" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-145" antialias="false" end2="none" y2="20" x1="-135"/>
+        <line length1="1.5" y1="20" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-145" antialias="false" end2="none" y2="20" x1="-170"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="-160" color="#000000" y="-21" rotation="0" text="L"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="-160" color="#000000" y="-2" rotation="0" text="N"/>
+        <line length1="1.5" y1="9" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-156" antialias="false" end2="none" y2="14" x1="-156"/>
+        <line length1="1.5" y1="14" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-161" antialias="false" end2="none" y2="14" x1="-151"/>
+        <line length1="1.5" y1="16" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-159" antialias="false" end2="none" y2="16" x1="-153"/>
+        <line length1="1.5" y1="18" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-158" antialias="false" end2="none" y2="18" x1="-155"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="-20" color="#000000" y="25" rotation="0" text="Schuko"/>
+        <terminal orientation="w" x="-175" y="0"/>
+        <terminal orientation="w" x="-175" y="-20"/>
+        <terminal orientation="w" x="-175" y="20"/>
+    </description>
+</definition>

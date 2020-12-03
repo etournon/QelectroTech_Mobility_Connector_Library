@@ -1,0 +1,25 @@
+<definition type="element" width="70" height="40" hotspot_y="19" version="0.70" link_type="simple" hotspot_x="32" orientation="dyyy">
+    <uuid uuid="{869653b9-0931-43f5-8711-00eb842e15c4}"/>
+    <names>
+        <name lang="fr">splitter_1_6</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="2" x1="27" y2="8" end2="none" length2="1.5" y1="8"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="2" x1="27" y2="-2" end2="none" length2="1.5" y1="-2"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="2" x1="27" y2="-7" end2="none" length2="1.5" y1="-7"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="2" x1="27" y2="13" end2="none" length2="1.5" y1="13"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="2" x1="27" y2="3" end2="none" length2="1.5" y1="3"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="2" x1="27" y2="-12" end2="none" length2="1.5" y1="-12"/>
+        <line style="line-style:normal;line-weight:eleve;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="0" x1="0" y2="18" end2="none" length2="1.5" y1="-17"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" length1="1.5" x2="-23" x1="-3" y2="1" end2="none" length2="1.5" y1="1"/>
+        <terminal y="1" x="-28" orientation="w"/>
+        <terminal y="3" x="32" orientation="e"/>
+        <terminal y="13" x="32" orientation="e"/>
+        <terminal y="-12" x="32" orientation="e"/>
+        <terminal y="8" x="32" orientation="e"/>
+        <terminal y="-7" x="32" orientation="e"/>
+        <terminal y="-2" x="32" orientation="e"/>
+    </description>
+</definition>
